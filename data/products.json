@@ -1,0 +1,52 @@
+[
+  {
+    "position": 1,
+    "name": "Contractor First Aid Kit by Medique",
+    "slug": "contractor-first-aid-medique",
+    "description": "A rugged, portable OSHA-compliant kit designed for small crews up to 25 workers.",
+    "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/medique-contractor-kit.jpg",
+    "target_audience_match": "Perfect for small crews trying to stay compliant without spending hours researching OSHA rules.",
+    "price": "From $39.95",
+    "data-link": "pending"
+  },
+  {
+    "position": 2,
+    "name": "North by Honeywell First Aid Kit",
+    "slug": "north-honeywell-kit",
+    "description": "Compact, OSHA-compliant first aid kit with industrial-grade supplies.",
+    "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/honeywell-first-aid.jpg",
+    "target_audience_match": "Great for foremen who need pro-level safety gear but don’t want to lug around a bulky box.",
+    "price": "From $49.99",
+    "data-link": "pending"
+  },
+  {
+    "position": 3,
+    "name": "MFASCO Construction First Aid Kit",
+    "slug": "mfasco-first-aid-construction",
+    "description": "All-in-one jobsite kit packed for fast treatment of cuts, burns, and injuries.",
+    "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/mfasco-construction-kit.jpg",
+    "target_audience_match": "Ideal for busy contractors who want everything in one place—ready to toss in the truck and go.",
+    "price": "From $59.95",
+    "data-link": "pending"
+  },
+  {
+    "position": 4,
+    "name": "First Aid Only Contractor Kit (FAO-442)",
+    "slug": "first-aid-only-442",
+    "description": "OSHA-compliant kit designed for up to 25 employees, ideal for job trailers and trucks.",
+    "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/fao-contractor-kit.jpg",
+    "target_audience_match": "Perfect for leads who want a clean, organized kit they can show an inspector without panic.",
+    "price": "From $45.00",
+    "data-link": "pending"
+  },
+  {
+    "position": 5,
+    "name": "Surviveware Small First Aid Kit",
+    "slug": "surviveware-small-kit",
+    "description": "Compact, water-resistant kit with labeled compartments and essentials for small teams.",
+    "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/surviveware-small-kit.jpg",
+    "target_audience_match": "Made for solo operators who still want to show up prepared and professional.",
+    "price": "From $34.95",
+    "data-link": "pending"
+  }
+]
